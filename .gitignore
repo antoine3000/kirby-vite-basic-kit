@@ -30,4 +30,3 @@ site/plugins/*
 !/storage/sessions/.gitkeep
 
 /site/config/.license
-/site/config/vite.config.php
